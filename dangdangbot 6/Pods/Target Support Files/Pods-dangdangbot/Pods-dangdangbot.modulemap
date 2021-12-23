@@ -1,0 +1,6 @@
+framework module Pods_dangdangbot {
+  umbrella header "Pods-dangdangbot-umbrella.h"
+
+  export *
+  module * { export * }
+}
